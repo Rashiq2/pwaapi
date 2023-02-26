@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Kangaroo, eastern grey","category":"Indigo"},
+{"id":2,"name":"Mountain goat","category":"Puce"},
+{"id":3,"name":"Pie, indian tree","category":"Mauv"},
+{"id":4,"name":"Oystercatcher, blackish","category":"Green"},
+{"id":5,"name":"Crested porcupine","category":"Pink"},
+{"id":6,"name":"White-browed sparrow weaver","category":"Indigo"},
+{"id":7,"name":"Cook's tree boa","category":"Crimson"},
+{"id":8,"name":"African black crake","category":"Yellow"},
+{"id":9,"name":"African darter","category":"Red"},
+{"id":10,"name":"Phalarope, northern","category":"Orange"},
+{"id":11,"name":"Snowy owl","category":"Yellow"},
+{"id":12,"name":"Galapagos albatross","category":"Khaki"},
+{"id":13,"name":"Desert tortoise","category":"Teal"},
+{"id":14,"name":"Brown hyena","category":"Red"},
+{"id":15,"name":"Common dolphin","category":"Turquoise"},
+{"id":16,"name":"Praying mantis (unidentified)","category":"Orange"},
+{"id":17,"name":"Spur-winged goose","category":"Pink"},
+{"id":18,"name":"Spotted hyena","category":"Goldenrod"},
+{"id":19,"name":"Bengal vulture","category":"Teal"},
+{"id":20,"name":"Wallaby, agile","category":"Turquoise"}
+]
+}
